@@ -1,0 +1,15 @@
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.exe
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.deps.json
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.runtimeconfig.json
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.dll
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.pdb
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.AssemblyInfo.vb
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.vbproj.CoreCompileInputs.cache
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.dll
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\refint\ConsoleApp14.dll
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.pdb
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ref\ConsoleApp14.dll
+C:\Users\EmmaYou\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleA.7FA20C8D.Up2Date
